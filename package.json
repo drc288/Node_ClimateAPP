@@ -1,0 +1,23 @@
+{
+  "name": "node_climate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drc288/node_climate.git"
+  },
+  "author": "David Rosero Calle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drc288/node_climate/issues"
+  },
+  "homepage": "https://github.com/drc288/node_climate#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "yargs": "^15.0.2"
+  }
+}
