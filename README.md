@@ -14,5 +14,5 @@ _Option_
 
 _Example_
 ```bash
-$ node index -a "New Yorck"
+$ node index -a "New York"
 ```
